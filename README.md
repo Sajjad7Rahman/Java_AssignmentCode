@@ -48,6 +48,8 @@ cost after giving 15% discount? [Extract the digits from the paragraph and calcu
 
 # Technology Used:
 -Intellij IDEA community edition
+# Pre-requisite/s:
+-Java SDK 11
 
 
 
